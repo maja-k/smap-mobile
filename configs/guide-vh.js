@@ -65,7 +65,7 @@ var config = {
 					  attribution: "Malmö stads WFS",
 					  inputCrs: "EPSG:3008",
 					  reverseAxis: true,
-					  popup: '<h1>${namn}</h1><p>En popup med en bild</p><img style="width:200px;max-height:200px;" src="${picture}"></img>',
+					  popup: '<h1>${namn}</h1><p>1 popup med 1 bild</p><img style="width:200px;max-height:200px;" src="${picture}"></img>',
 					  bigPopup: {
 						  headerHtml: "${namn}",
 						  srcVideo: '<video controls="controls" autoplay width="240" height="135">' +
